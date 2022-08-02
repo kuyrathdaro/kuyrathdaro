@@ -2,7 +2,7 @@
 
 <br/>
 
-Hi, I'm [Rathdaro Kuy](https://kuyrathdaro.github.io/), a backend developer with a bachelor's degree in computer science and engineering. I'm also a self-taught developer and hacker from Cambodia. I like doing a research, learning new things and sharing my knowledge to the community.
+Hi, I'm [Rathdaro Kuy](https://kuyrathdaro.github.io/), a backend developer with a bachelor's degree in computer science and engineering. I'm also a self-taught developer and cybersecurity researcher from Cambodia. I like doing a research, learning new things and sharing my knowledge to the community.
 
 <img src="images/code.gif" width="500px" height="320px" />
 
