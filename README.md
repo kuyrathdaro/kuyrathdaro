@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a senior software developer with a bachelor's degree in Computer Science and Engineering based in Cambodia. I have extensive experience in building backend applications, microservices and APIs. My goal is to leverage my skills to contribute to solutions that drive business success while benefiting the community. As an information security hobbyist, I'm also passionate about ensuring secure and reliable systems, constantly staying updated on the latest security practices and trends.
+I'm a software developer with a bachelor's degree in Computer Science and Engineering based in Cambodia. I have extensive experience in building backend applications and APIs. My goal is to leverage my skills to contribute to solutions that drive business success while benefiting the community. As an information security hobbyist, I'm also passionate about ensuring secure and reliable systems, constantly staying updated on the latest security practices and trends.
 
 ## 🛠️ Skills
 
