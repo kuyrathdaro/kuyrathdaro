@@ -1,6 +1,8 @@
 # <img src="gif/hi.gif" width="30px" height="30px"> Hi, I'm Daro!
 
-<img src="gif/cover.gif" width="500px" height="320px" />
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/kuyrathdaro"/>
+</a>
 
 ## 👨‍💻 About Me
 
